@@ -1,4 +1,4 @@
-name: udemy_app_conversor_api
+name: app_conversor
 description: Aplicação para conversão de moedas financeiras em tempo real.
 
 # The following line prevents the package from being accidentally published to

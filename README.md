@@ -1,16 +1,7 @@
-# udemy_app_conversor_api
+# app_conversor
 
-A new Flutter project.
+Aplicativo que realiza conversão de moeda financeira real, dolar e euro, com base em dados consultados em tempo real da api.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para utilizar o fonte, é necessario criar uma chave de acesso para consumir a api https://console.hgbrasil.com/documentation/finance, com esse endPoint será possivel obter os valores de cotação da api.

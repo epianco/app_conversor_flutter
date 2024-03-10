@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
-import 'package:udemy_app_conversor_api/Widgets/text_field_custom.dart';
-import 'package:udemy_app_conversor_api/main.dart';
+import 'package:app_conversor/Widgets/text_field_custom.dart';
+import 'package:app_conversor/main.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});

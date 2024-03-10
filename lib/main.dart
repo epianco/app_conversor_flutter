@@ -4,9 +4,9 @@ import 'package:http/http.dart' as http;
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:udemy_app_conversor_api/pages/home_page.dart';
+import 'package:app_conversor/pages/home_page.dart';
 
-Uri request = Uri.parse("https://api.hgbrasil.com/finance?key=7369764a");
+Uri request = Uri.parse("https://api.hgbrasil.com/insiraSuaChave");
 
 void main() async {
   runApp(MaterialApp(
